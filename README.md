@@ -1,4 +1,4 @@
-# MACFE_Firmware-2024
+# MACFE-Firmware-2024
 # How to Compile
 1. Navigate to directory where the file HelloWorld.cpp is located.
 2. Compile the file using the following command:
